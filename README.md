@@ -2,6 +2,11 @@
 
 A responsive website built with **HTML**, **CSS**, and **JavaScript** that adapts seamlessly across desktops, tablets, and mobile devices.
 
+## Screenshots
+
+![Screenshot](todo-website.png)
+
+
 ## Features
 - Mobile-first responsive design  
 - Flexible layout using CSS media queries  
