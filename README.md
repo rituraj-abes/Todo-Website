@@ -2,7 +2,7 @@
 
 A responsive website built with **HTML**, **CSS**, and **JavaScript** that adapts seamlessly across desktops, tablets, and mobile devices.
 
-## Screenshots
+## Screenshot
 
 ![Screenshot](todo-website.png)
 
